@@ -1,6 +1,6 @@
 
 //array of things 
-var somethingArray=["Cows","Cats","Dogs","Shows"];
+var somethingArray=["Cows","Cats","Dogs","Baby"];
 
 
 //dispaying buttons in the array
