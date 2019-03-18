@@ -2,7 +2,7 @@
 
 Funny-Giftastic allows users to use the GIPHY API to make a dynamic web page that populates with gifs.
 
-#TECH
+# TECH
 Web app made with HTML CSS Bootstrap Javascript jQuery & GIPHY API
 
 
